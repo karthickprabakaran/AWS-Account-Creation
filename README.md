@@ -19,7 +19,8 @@ Include the commands used in the Experiment.
 ### REG NUMBER:21222210021
 ### NAME:Karthick P
 <img width="1508" alt="Screenshot 2025-05-22 at 11 29 51 AM" src="https://github.com/user-attachments/assets/a405f153-9bb3-4aba-8eea-0c5d6b53d6e3" />
-![13](https://github.com/user-attachments/assets/e1d8b77f-1475-444d-a9c6-097fc766edb3)
+
+![13](https://github.com/user-attachments/assets/c8cfa911-620a-49e2-9502-1eb23e0b4224)
 
 
 ## RESULT
