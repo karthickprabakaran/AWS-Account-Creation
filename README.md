@@ -18,8 +18,8 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER:21222210021
 ### NAME:Karthick P
-![12](https://github.com/user-attachments/assets/88dbf132-7427-492e-a022-75c57a0168ff)
-![13](https://github.com/user-attachments/assets/90efef0f-3107-4c45-b13d-0648dd0e3d10)
+<img width="1508" alt="Screenshot 2025-05-22 at 11 29 51 AM" src="https://github.com/user-attachments/assets/a405f153-9bb3-4aba-8eea-0c5d6b53d6e3" />
+![13](https://github.com/user-attachments/assets/e1d8b77f-1475-444d-a9c6-097fc766edb3)
 
 
 ## RESULT
